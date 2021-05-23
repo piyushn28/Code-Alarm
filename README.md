@@ -31,7 +31,7 @@ https://piyushn28.github.io/Code-Alarm/#/
 ⦿ BLoc
 
 ## App Link:
-https://play.google.com/store/apps/details?id=com.pixamentory.codealarm
+<a href="https://play.google.com/store/apps/details?id=com.pixamentory.codealarm" rel="nofollow">Google Play</a>
 
 
 
