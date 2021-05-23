@@ -5,15 +5,24 @@
 
 This is an education app that primarily focuses on competitive programming and DSA skills. This app will be beneficial for all the people who are preparing for coding round & interviews. 
 
-Some key benefits:
+Features:
 
 ⦿ Learn algorithms with 𝘼𝙡𝙜𝙤𝙧𝙞𝙩𝙝𝙢 𝙑𝙞𝙨𝙪𝙖𝙡𝙞𝙯𝙚𝙧
-
 ⦿ Sorting Algorithms well explained
-
 ⦿ Keep track of all coding competitions
-
 ⦿ Set remainders for coding events
-
 ⦿ UI improved 🌟
+
+## Website Link:
+https://piyushn28.github.io/Code-Alarm/#/
+
+## Technology Stack:
+ 
+⦿ Flutter
+⦿ Firebase
+⦿ SQLite
+⦿ GetX
+⦿ Lottie
+⦿ Figma
+
 
