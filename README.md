@@ -5,8 +5,7 @@
 
 This is an education app that primarily focuses on competitive programming and DSA skills. This app will be beneficial for all the people who are preparing for coding round & interviews. 
 
-Features:
-
+## Features:
 ⦿ Learn algorithms with 𝘼𝙡𝙜𝙤𝙧𝙞𝙩𝙝𝙢 𝙑𝙞𝙨𝙪𝙖𝙡𝙞𝙯𝙚𝙧
 
 ⦿ Sorting Algorithms well explained
@@ -21,12 +20,20 @@ Features:
 https://piyushn28.github.io/Code-Alarm/#/
 
 ## Technology Stack:
- 
 ⦿ Flutter
 ⦿ Firebase
 ⦿ SQLite
 ⦿ GetX
 ⦿ Lottie
 ⦿ Figma
+
+## Architecture:
+⦿ BLoc
+
+## App Link:
+https://play.google.com/store/apps/details?id=com.pixamentory.codealarm
+
+
+
 
 
