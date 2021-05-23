@@ -36,6 +36,7 @@ This is an education app that primarily focuses on competitive programming and D
 ## App Link:
 <a href="https://play.google.com/store/apps/details?id=com.pixamentory.codealarm" rel="nofollow">Code Alarm</a>
 
+## Donate
 <p>If you found this project helpful and want to thank me, consider buying me a cup of <g-emoji class="g-emoji" alias="coffee" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png">☕</g-emoji></p>
 <ul>
 <li><a href="https://www.buymeacoffee.com/piyushnirala28" rel="nofollow">BuyMeACoffee</a></li>
