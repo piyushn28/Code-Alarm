@@ -17,7 +17,8 @@ This is an education app that primarily focuses on competitive programming and D
 ⦿ UI improved 🌟
 
 ## Website Link:
-https://piyushn28.github.io/Code-Alarm/#/
+<a href="
+https://piyushn28.github.io/Code-Alarm/#/" rel="nofollow">Code Alarm Website</a>
 
 ## Technology Stack:
 ⦿ Flutter
@@ -31,7 +32,7 @@ https://piyushn28.github.io/Code-Alarm/#/
 ⦿ BLoc
 
 ## App Link:
-<a href="https://play.google.com/store/apps/details?id=com.pixamentory.codealarm" rel="nofollow">Google Play</a>
+<a href="https://play.google.com/store/apps/details?id=com.pixamentory.codealarm" rel="nofollow">Code Alarm</a>
 
 
 
